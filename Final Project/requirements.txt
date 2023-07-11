@@ -1,0 +1,9 @@
+regex
+pickle5
+keyboard
+colorama
+py-optional
+tabulate
+pytest
+mock
+os-sys
